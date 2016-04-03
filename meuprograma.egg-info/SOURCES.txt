@@ -1,0 +1,6 @@
+meuprograma.py
+setup.py
+meuprograma.egg-info/PKG-INFO
+meuprograma.egg-info/SOURCES.txt
+meuprograma.egg-info/dependency_links.txt
+meuprograma.egg-info/top_level.txt
